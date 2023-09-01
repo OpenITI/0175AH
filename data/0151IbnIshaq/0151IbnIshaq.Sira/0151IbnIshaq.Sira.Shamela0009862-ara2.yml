@@ -4,10 +4,13 @@
 80#VERS#BASED####: http://www.worldcat.org/oclc/165221953
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/165221953
 80#VERS#LINKS####: https://www.kutub-pdf.net/book/كتاب-السير-والمغازي-سيرة-ابن-
-    إسحاق-.html
+            إسحاق-.html
 90#VERS#ANNOTATOR: Gowaart Van Den Bossche
 90#VERS#COMMENT##: TXT has regular intermittent titles to denote the
-    contents of individual hadith, but these are not in the edition. I have
-    untagged these and put them in parentheses.
+            contents of individual hadith, but these are not in the edition. I have
+            untagged these and put them in parentheses.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-07-18
-90#VERS#ISSUES###: NO_MAJOR_ISSUES,
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
